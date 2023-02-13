@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Gorck1416
+# 👋 Hi, I’m [@Gorck1416](https://github.com/Gorck1416)
 
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C
